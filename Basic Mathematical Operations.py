@@ -1,0 +1,6 @@
+a = eval(input("Enter the First No. :- "))
+b = eval(input("Enter the Second No. :- "))
+print("\nAddition :- ",a+b)
+print("Subtraction :- ",a-b)
+print("Multiplication :- ",a*b)
+print("Division :- ",a/b)
